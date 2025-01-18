@@ -1,0 +1,3 @@
+-- This gets executed right as Neovim starts.
+-- Best to set keymaps and autocommands here.
+-- The user doesn't have to 'require' to run.
